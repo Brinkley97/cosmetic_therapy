@@ -1,4 +1,4 @@
-# Django Base Setup (Template)
+# Aries
 
 🚨 **MASTER TEMPLATE - DO NOT DEPLOY DIRECTLY** 🚨
 
