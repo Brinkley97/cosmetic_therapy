@@ -1,5 +1,3 @@
-# Aries
-
 🚨 **MASTER TEMPLATE - DO NOT DEPLOY DIRECTLY** 🚨
 
 This repository serves as the foundational boilerplate for future Django projects. It includes a custom user model, pre-configured settings, and a standardized folder structure.
